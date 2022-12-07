@@ -1,6 +1,5 @@
 class MyClass:
     s = ""
-
     def getString(self):
         self.s = input()
         # print("I'm", self.att1)
